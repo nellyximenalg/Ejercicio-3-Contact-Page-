@@ -20,7 +20,7 @@ Este proyecto es una página de contacto hecha con HTML y CSS. Contiene un ícon
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [LINK](http://yomidev.github.io/newsletter/)
+Deploy: https://nellyximenalg.github.io/Ejercicio-3-Contact-Page-/
 ---
 
 ## 📝 Reflexión
