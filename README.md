@@ -19,7 +19,7 @@ Este proyecto es una página de contacto hecha con HTML y CSS. Contiene un ícon
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
+Repositorio en GitHub: (https://github.com/nellyximenalg/Ejercicio-3-Contact-Page-/tree/master)  
 Deploy: https://nellyximenalg.github.io/Ejercicio-3-Contact-Page-/
 ---
 
